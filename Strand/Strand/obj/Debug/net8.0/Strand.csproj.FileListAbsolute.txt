@@ -1,0 +1,14 @@
+H:\13\13_c#\Strand\Strand\obj\Debug\net8.0\Strand.GeneratedMSBuildEditorConfig.editorconfig
+H:\13\13_c#\Strand\Strand\obj\Debug\net8.0\Strand.AssemblyInfoInputs.cache
+H:\13\13_c#\Strand\Strand\obj\Debug\net8.0\Strand.AssemblyInfo.cs
+H:\13\13_c#\Strand\Strand\obj\Debug\net8.0\Strand.csproj.CoreCompileInputs.cache
+H:\13\13_c#\Strand\Strand\bin\Debug\net8.0\Strand.exe
+H:\13\13_c#\Strand\Strand\bin\Debug\net8.0\Strand.deps.json
+H:\13\13_c#\Strand\Strand\bin\Debug\net8.0\Strand.runtimeconfig.json
+H:\13\13_c#\Strand\Strand\bin\Debug\net8.0\Strand.dll
+H:\13\13_c#\Strand\Strand\bin\Debug\net8.0\Strand.pdb
+H:\13\13_c#\Strand\Strand\obj\Debug\net8.0\Strand.dll
+H:\13\13_c#\Strand\Strand\obj\Debug\net8.0\refint\Strand.dll
+H:\13\13_c#\Strand\Strand\obj\Debug\net8.0\Strand.pdb
+H:\13\13_c#\Strand\Strand\obj\Debug\net8.0\Strand.genruntimeconfig.cache
+H:\13\13_c#\Strand\Strand\obj\Debug\net8.0\ref\Strand.dll

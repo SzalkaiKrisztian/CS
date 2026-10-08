@@ -1,0 +1,14 @@
+H:\13\13_c#\Teglalap\Teglalap\bin\Debug\net8.0\Teglalap.exe
+H:\13\13_c#\Teglalap\Teglalap\bin\Debug\net8.0\Teglalap.deps.json
+H:\13\13_c#\Teglalap\Teglalap\bin\Debug\net8.0\Teglalap.runtimeconfig.json
+H:\13\13_c#\Teglalap\Teglalap\bin\Debug\net8.0\Teglalap.dll
+H:\13\13_c#\Teglalap\Teglalap\bin\Debug\net8.0\Teglalap.pdb
+H:\13\13_c#\Teglalap\Teglalap\obj\Debug\net8.0\Teglalap.GeneratedMSBuildEditorConfig.editorconfig
+H:\13\13_c#\Teglalap\Teglalap\obj\Debug\net8.0\Teglalap.AssemblyInfoInputs.cache
+H:\13\13_c#\Teglalap\Teglalap\obj\Debug\net8.0\Teglalap.AssemblyInfo.cs
+H:\13\13_c#\Teglalap\Teglalap\obj\Debug\net8.0\Teglalap.csproj.CoreCompileInputs.cache
+H:\13\13_c#\Teglalap\Teglalap\obj\Debug\net8.0\Teglalap.dll
+H:\13\13_c#\Teglalap\Teglalap\obj\Debug\net8.0\refint\Teglalap.dll
+H:\13\13_c#\Teglalap\Teglalap\obj\Debug\net8.0\Teglalap.pdb
+H:\13\13_c#\Teglalap\Teglalap\obj\Debug\net8.0\Teglalap.genruntimeconfig.cache
+H:\13\13_c#\Teglalap\Teglalap\obj\Debug\net8.0\ref\Teglalap.dll

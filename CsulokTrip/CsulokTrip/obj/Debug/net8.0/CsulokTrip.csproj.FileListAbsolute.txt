@@ -1,0 +1,12 @@
+H:\Suli\TESZTELES\13evf\CsulokTrip\CsulokTrip\bin\Debug\net8.0\CsulokTrip.deps.json
+H:\Suli\TESZTELES\13evf\CsulokTrip\CsulokTrip\bin\Debug\net8.0\CsulokTrip.dll
+H:\Suli\TESZTELES\13evf\CsulokTrip\CsulokTrip\bin\Debug\net8.0\CsulokTrip.pdb
+H:\Suli\TESZTELES\13evf\CsulokTrip\CsulokTrip\obj\Debug\net8.0\CsulokTrip.GeneratedMSBuildEditorConfig.editorconfig
+H:\Suli\TESZTELES\13evf\CsulokTrip\CsulokTrip\obj\Debug\net8.0\CsulokTrip.AssemblyInfoInputs.cache
+H:\Suli\TESZTELES\13evf\CsulokTrip\CsulokTrip\obj\Debug\net8.0\CsulokTrip.AssemblyInfo.cs
+H:\Suli\TESZTELES\13evf\CsulokTrip\CsulokTrip\obj\Debug\net8.0\CsulokTrip.csproj.CoreCompileInputs.cache
+H:\Suli\TESZTELES\13evf\CsulokTrip\CsulokTrip\obj\Debug\net8.0\CsulokTrip.sourcelink.json
+H:\Suli\TESZTELES\13evf\CsulokTrip\CsulokTrip\obj\Debug\net8.0\CsulokTrip.dll
+H:\Suli\TESZTELES\13evf\CsulokTrip\CsulokTrip\obj\Debug\net8.0\refint\CsulokTrip.dll
+H:\Suli\TESZTELES\13evf\CsulokTrip\CsulokTrip\obj\Debug\net8.0\CsulokTrip.pdb
+H:\Suli\TESZTELES\13evf\CsulokTrip\CsulokTrip\obj\Debug\net8.0\ref\CsulokTrip.dll

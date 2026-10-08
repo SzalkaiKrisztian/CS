@@ -1,0 +1,14 @@
+H:\13\13_c#\InterFaceGyakorlas\InterFaceGyakorlas\bin\Debug\net8.0\InterFaceGyakorlas.exe
+H:\13\13_c#\InterFaceGyakorlas\InterFaceGyakorlas\bin\Debug\net8.0\InterFaceGyakorlas.deps.json
+H:\13\13_c#\InterFaceGyakorlas\InterFaceGyakorlas\bin\Debug\net8.0\InterFaceGyakorlas.runtimeconfig.json
+H:\13\13_c#\InterFaceGyakorlas\InterFaceGyakorlas\bin\Debug\net8.0\InterFaceGyakorlas.dll
+H:\13\13_c#\InterFaceGyakorlas\InterFaceGyakorlas\bin\Debug\net8.0\InterFaceGyakorlas.pdb
+H:\13\13_c#\InterFaceGyakorlas\InterFaceGyakorlas\obj\Debug\net8.0\InterFaceGyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+H:\13\13_c#\InterFaceGyakorlas\InterFaceGyakorlas\obj\Debug\net8.0\InterFaceGyakorlas.AssemblyInfoInputs.cache
+H:\13\13_c#\InterFaceGyakorlas\InterFaceGyakorlas\obj\Debug\net8.0\InterFaceGyakorlas.AssemblyInfo.cs
+H:\13\13_c#\InterFaceGyakorlas\InterFaceGyakorlas\obj\Debug\net8.0\InterFaceGyakorlas.csproj.CoreCompileInputs.cache
+H:\13\13_c#\InterFaceGyakorlas\InterFaceGyakorlas\obj\Debug\net8.0\InterFaceGyakorlas.dll
+H:\13\13_c#\InterFaceGyakorlas\InterFaceGyakorlas\obj\Debug\net8.0\refint\InterFaceGyakorlas.dll
+H:\13\13_c#\InterFaceGyakorlas\InterFaceGyakorlas\obj\Debug\net8.0\InterFaceGyakorlas.pdb
+H:\13\13_c#\InterFaceGyakorlas\InterFaceGyakorlas\obj\Debug\net8.0\InterFaceGyakorlas.genruntimeconfig.cache
+H:\13\13_c#\InterFaceGyakorlas\InterFaceGyakorlas\obj\Debug\net8.0\ref\InterFaceGyakorlas.dll

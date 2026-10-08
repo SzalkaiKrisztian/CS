@@ -1,0 +1,14 @@
+H:\13c#\Ismetles_3\Ismetles_3\obj\Debug\net8.0\Ismetles_3.GeneratedMSBuildEditorConfig.editorconfig
+H:\13c#\Ismetles_3\Ismetles_3\obj\Debug\net8.0\Ismetles_3.AssemblyInfoInputs.cache
+H:\13c#\Ismetles_3\Ismetles_3\obj\Debug\net8.0\Ismetles_3.AssemblyInfo.cs
+H:\13c#\Ismetles_3\Ismetles_3\obj\Debug\net8.0\Ismetles_3.csproj.CoreCompileInputs.cache
+H:\13c#\Ismetles_3\Ismetles_3\bin\Debug\net8.0\Ismetles_3.exe
+H:\13c#\Ismetles_3\Ismetles_3\bin\Debug\net8.0\Ismetles_3.deps.json
+H:\13c#\Ismetles_3\Ismetles_3\bin\Debug\net8.0\Ismetles_3.runtimeconfig.json
+H:\13c#\Ismetles_3\Ismetles_3\bin\Debug\net8.0\Ismetles_3.dll
+H:\13c#\Ismetles_3\Ismetles_3\bin\Debug\net8.0\Ismetles_3.pdb
+H:\13c#\Ismetles_3\Ismetles_3\obj\Debug\net8.0\Ismetles_3.dll
+H:\13c#\Ismetles_3\Ismetles_3\obj\Debug\net8.0\refint\Ismetles_3.dll
+H:\13c#\Ismetles_3\Ismetles_3\obj\Debug\net8.0\Ismetles_3.pdb
+H:\13c#\Ismetles_3\Ismetles_3\obj\Debug\net8.0\Ismetles_3.genruntimeconfig.cache
+H:\13c#\Ismetles_3\Ismetles_3\obj\Debug\net8.0\ref\Ismetles_3.dll

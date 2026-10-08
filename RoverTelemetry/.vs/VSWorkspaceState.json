@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RoverTelemetry",
+    "\\RoverTelemetry.Tests",
+    "\\Telemetry"
+  ],
+  "SelectedNode": "\\Telemetry\\TelemetryService.cs",
+  "PreviewInSolutionExplorer": false
+}

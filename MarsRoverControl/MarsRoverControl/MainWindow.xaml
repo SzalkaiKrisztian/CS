@@ -1,0 +1,41 @@
+﻿<Window x:Class="MarsRoverControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MarsRoverControl"
+        mc:Ignorable="d"
+        Title="Mars Rover Control Panel" Height="450" Width="600">
+    <Grid ShowGridLines="True">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="5*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Grid.Column="0">Tervezett távolság (méter):</Label>
+
+        <Label Grid.Row="1" Grid.Column="0">Fogyaztási ráta:</Label>
+
+        <Button BorderBrush="Black" Width="100" Height="" Grid.Row="2" Grid.Column="0">Számítás</Button>
+    
+        <TextBlock Grid.Row="0" Grid.Column="1"></TextBlock>
+
+        <TextBlock Grid.Row="1" Grid.Column="1"></TextBlock>
+
+        <TextBlock Text="Tervezett energiaigény:" Grid.Row="2" Grid.Column="1"></TextBlock>
+
+        <Image Grid.Row="0" Grid.Column="2" Grid.RowSpan="2"></Image>
+
+        <Button BorderBrush="Black" Width="100" Grid.Row="2" Grid.Column="2">Kapcsolódás</Button>
+
+        <Image Margin="10" Grid.Row="3" Grid.ColumnSpan="3" Source="H:\13c#\MarsRoverControl\MarsRoverControl\rover.jpg"></Image>
+    </Grid>
+
+</Window>

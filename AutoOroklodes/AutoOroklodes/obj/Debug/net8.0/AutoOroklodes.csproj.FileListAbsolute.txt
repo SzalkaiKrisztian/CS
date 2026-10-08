@@ -1,0 +1,14 @@
+H:\13\13_c#\AutoOroklodes\AutoOroklodes\bin\Debug\net8.0\AutoOroklodes.exe
+H:\13\13_c#\AutoOroklodes\AutoOroklodes\bin\Debug\net8.0\AutoOroklodes.deps.json
+H:\13\13_c#\AutoOroklodes\AutoOroklodes\bin\Debug\net8.0\AutoOroklodes.runtimeconfig.json
+H:\13\13_c#\AutoOroklodes\AutoOroklodes\bin\Debug\net8.0\AutoOroklodes.dll
+H:\13\13_c#\AutoOroklodes\AutoOroklodes\bin\Debug\net8.0\AutoOroklodes.pdb
+H:\13\13_c#\AutoOroklodes\AutoOroklodes\obj\Debug\net8.0\AutoOroklodes.GeneratedMSBuildEditorConfig.editorconfig
+H:\13\13_c#\AutoOroklodes\AutoOroklodes\obj\Debug\net8.0\AutoOroklodes.AssemblyInfoInputs.cache
+H:\13\13_c#\AutoOroklodes\AutoOroklodes\obj\Debug\net8.0\AutoOroklodes.AssemblyInfo.cs
+H:\13\13_c#\AutoOroklodes\AutoOroklodes\obj\Debug\net8.0\AutoOroklodes.csproj.CoreCompileInputs.cache
+H:\13\13_c#\AutoOroklodes\AutoOroklodes\obj\Debug\net8.0\AutoOroklodes.dll
+H:\13\13_c#\AutoOroklodes\AutoOroklodes\obj\Debug\net8.0\refint\AutoOroklodes.dll
+H:\13\13_c#\AutoOroklodes\AutoOroklodes\obj\Debug\net8.0\AutoOroklodes.pdb
+H:\13\13_c#\AutoOroklodes\AutoOroklodes\obj\Debug\net8.0\AutoOroklodes.genruntimeconfig.cache
+H:\13\13_c#\AutoOroklodes\AutoOroklodes\obj\Debug\net8.0\ref\AutoOroklodes.dll
