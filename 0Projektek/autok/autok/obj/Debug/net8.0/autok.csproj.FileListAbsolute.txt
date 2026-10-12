@@ -1,0 +1,16 @@
+H:\13\13_c#\CS\0Projektek\autok\autok\obj\Debug\net8.0\autok.GeneratedMSBuildEditorConfig.editorconfig
+H:\13\13_c#\CS\0Projektek\autok\autok\obj\Debug\net8.0\autok.AssemblyInfoInputs.cache
+H:\13\13_c#\CS\0Projektek\autok\autok\obj\Debug\net8.0\autok.AssemblyInfo.cs
+H:\13\13_c#\CS\0Projektek\autok\autok\obj\Debug\net8.0\autok.csproj.CoreCompileInputs.cache
+H:\13\13_c#\CS\0Projektek\autok\autok\obj\Debug\net8.0\autok.sourcelink.json
+H:\13\13_c#\CS\0Projektek\autok\autok\bin\Debug\net8.0\autok.exe
+H:\13\13_c#\CS\0Projektek\autok\autok\bin\Debug\net8.0\jeladas.txt
+H:\13\13_c#\CS\0Projektek\autok\autok\bin\Debug\net8.0\autok.deps.json
+H:\13\13_c#\CS\0Projektek\autok\autok\bin\Debug\net8.0\autok.runtimeconfig.json
+H:\13\13_c#\CS\0Projektek\autok\autok\bin\Debug\net8.0\autok.dll
+H:\13\13_c#\CS\0Projektek\autok\autok\bin\Debug\net8.0\autok.pdb
+H:\13\13_c#\CS\0Projektek\autok\autok\obj\Debug\net8.0\autok.dll
+H:\13\13_c#\CS\0Projektek\autok\autok\obj\Debug\net8.0\refint\autok.dll
+H:\13\13_c#\CS\0Projektek\autok\autok\obj\Debug\net8.0\autok.pdb
+H:\13\13_c#\CS\0Projektek\autok\autok\obj\Debug\net8.0\autok.genruntimeconfig.cache
+H:\13\13_c#\CS\0Projektek\autok\autok\obj\Debug\net8.0\ref\autok.dll
