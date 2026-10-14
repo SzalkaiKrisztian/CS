@@ -1,0 +1,8 @@
+DARAB lab1
+DARAB lab2
+DARAB tanterem3
+DARAB nincs
+VAN lab1 2026-11-02
+VAN lab1 2026-11-06
+VAN tanterem3 2026-11-04
+VAN nincs 2026-11-02

@@ -96,16 +96,14 @@ namespace autok
         }
 
         //6.feladat
-        //public void KeresettAutoAdatai()
-        //{
-        //    Dictionary<string, double> Autotav = new Dictionary<string, double>();
+        public void KeresettAutoAdatai()
+        {
+            Console.WriteLine("Kérem, adja meg a rendszámot: ");
+            string keresettauto = Console.ReadLine();
 
-        //    Console.WriteLine("Kérem, adja meg a rendszámot: ");
-        //    string keresettauto=Console.ReadLine();
+            var autoAdatai = Autok.Where(k => k.Rendszam == keresettauto);
 
-        //    var autoAdatai =Autok.Where(r=>r.Rendszam==keresettauto).ToList();
-
-        //}
+        }
 
         //7.feladat
         public void Kiiras()

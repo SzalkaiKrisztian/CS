@@ -1,0 +1,8 @@
+PERCEK lab1
+PERCEK lab2
+PERCEK tanterem3
+PERCEK nincs
+ATLAG lab1
+ATLAG lab2
+ATLAG tanterem3
+ATLAG nincs
